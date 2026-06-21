@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cricket_Auction and Scoring Web App.<br>🌱 I’m currently learning React.js, Node.js, Framer, etc.<br>
+🔭 I’m currently working on Digital Library and MCA Exam Portal.<br>🌱 I’m currently learning React.js, Node.js, Framer, etc.<br>
 
 
 ## 🌐 Socials:
